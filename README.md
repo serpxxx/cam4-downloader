@@ -4,7 +4,7 @@
 
 **Product page:** [https://serp.ly/cam4-video-downloader](https://serp.ly/cam4-video-downloader)<br>
 **Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/cam4-video-downloader/releases/latest](https://github.com/serpapps/cam4-video-downloader/releases/latest)
+**Latest release:** [https://github.com/serpapps/cam4-downloader/releases/latest](https://github.com/serpapps/cam4-downloader/releases/latest)
 
 ---
 
@@ -82,4 +82,4 @@ SERP Cam4 Downloader includes **3 free downloads**. Sign in with your email -- n
 
 ## Get It
 
-**[Download SERP Cam4 Downloader](https://serp.cc/VDM-cam4-video-downloader)**
+**[Download SERP Cam4 Downloader](https://serp.ly/cam4-video-downloader)**
