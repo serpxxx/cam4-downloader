@@ -171,6 +171,10 @@ They are saved to your browser's default Downloads location, typically inside a 
 **Do I need extra software?**  
 No. The workflow runs through the browser extension.
 
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+
 ## Notes
 
 - An active internet connection is required
