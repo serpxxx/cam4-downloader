@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "> Record Cam4 live streams and download recorded videos as MP4 files for offline viewing.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "cam4-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Cam4 Downloader",
+  "version": "0.0"
+}
