@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "cam4-downloader",
   "readme": "../ACTOR.md",
-  "title": "Cam4 Downloader Browser Extension",
+  "title": "Cam4 Downloader",
   "version": "0.0"
 }
