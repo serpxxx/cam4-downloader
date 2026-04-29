@@ -1,4 +1,4 @@
-# Cam4 Downloader Browser Extension
+# Cam4 Downloader
 
 > Record Cam4 live streams and download recorded videos as MP4 files for offline viewing.
 
