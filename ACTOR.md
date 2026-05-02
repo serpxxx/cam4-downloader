@@ -9,6 +9,11 @@ Cam4 Downloader is a browser extension built for people who want a simple way to
 - Pick from available resolutions up to 1080p and 60fps where supported
 - Save videos as standard MP4 files for offline playback
 - Use player controls, popup controls, or right-click actions
+
+## Get it Here
+
+Get it here: https://serp.ly/cam4-video-downloader
+
 ## Table of Contents
 
 - [Why Cam4 Downloader](#why-cam4-downloader)
