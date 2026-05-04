@@ -1,4 +1,4 @@
-# Cam4 Downloader
+# CAM4 Video Downloader | How to Download CAM4 Videos
 
 > Record Cam4 live streams and download recorded videos as MP4 files for offline viewing.
 
